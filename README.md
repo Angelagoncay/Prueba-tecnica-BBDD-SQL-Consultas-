@@ -12,4 +12,4 @@ Con el fin de poner en práctica todo lo aprendido y mostrar la destreza obtenid
  
 <img width="247" height="135" alt="LOGO ADALAB" src="https://github.com/user-attachments/assets/9f918e63-63a5-4e16-b3c0-715f2e6bb54c" />
 
-**Autora: Ángela González Cayero. Fecha de entrega: 18-08-2025**
+**Autora: Ángela González Cayero. Fecha de entrega: 18-08-2025 angelagoncay@gmail.com**
